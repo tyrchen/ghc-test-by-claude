@@ -1,2 +1,5 @@
 # GHC Test Repo
 This repo is for testing ghc CLI parity with gh.
+## Features
+- Feature 1
+- Feature 2
